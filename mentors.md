@@ -9,3 +9,11 @@
 [Jesse Streb](https://github.com/jstreb)
 
 [Calvin Metcalf](https://github.com/calvinmetcalf)
+
+[Daniel Rinehart](https://github.com/NeoPhi)
+
+[Dave Kelly](https://github.com/dmkelly)
+
+[Jeff Whelply](https://github.com/jeffwhelpley)
+
+[Gary Katsevman](https://github.com/gkatsev)
