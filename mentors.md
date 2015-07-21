@@ -17,3 +17,5 @@
 [Jeff Whelply](https://github.com/jeffwhelpley)
 
 [Gary Katsevman](https://github.com/gkatsev)
+
+[Michael Cox](https://github.com/michaelcox)
